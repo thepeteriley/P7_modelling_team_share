@@ -1,0 +1,5 @@
+#!/bin/csh
+git pull
+git add .
+git commit -m "file update"
+git push
