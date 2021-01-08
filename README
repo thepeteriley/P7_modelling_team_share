@@ -1,0 +1,15 @@
+This folder contains all the prediction-related files 
+for PSP's perihelion encounter P7.
+
+The main repostitory is through Dropbox, but this
+GitHub repository will be synced with the Dropbox 
+folder every hour. 
+
+If you're planning to submit your predictions 
+via git, please let Pete or Sam know so that they
+can adjust the timing of the final syncing 
+and creating of the final ensembles and 
+visualisations. 
+
+pete@predsci.com
+samuel_badman@berkeley.edu
