@@ -1,6 +1,6 @@
-This directory contains a EUVI 195 synoptic map, with the filename
-euvi195_synoptic_YYYYMMDD.fits. It is made from 23 consecutive days of
-images, taken at 00:00UT each day, and YYYYMMDD labels the date of the last map.
+This directory contains merged AIA 193 + EUVI 195 synoptic maps, with the filename
+aia_euvi_synoptic_YYYYMMDD.fits. It is made from 17 consecutive days of AIA and 10 consecutive
+days of EUVI images, taken close to 00:00UT each day, and YYYYMMDD labels the date of the last map.
 
 These maps are NOT suitable for use in publication, but is available for quick look
 purposes, and comparing connection predictions to. Feel free to take it and use
